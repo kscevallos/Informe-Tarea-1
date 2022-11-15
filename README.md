@@ -4,7 +4,7 @@
 
 1.1.	 Objetivo General
 
-  Aprender los conceptos básicos de las cantidades y unidades que son fundamentales al momento de aplicar en el cálculo, los principales en tomar en cuentas es el voltaje, resistencia y corriente para entender de mejor utilizará herramientas de investigación.
+  Aprender los conceptos básicos de las cantidades y unidades que son fundamentales al momento de aplicar en el cálculo, las principales unidades en tomar en cuentas es el voltaje, resistencia y corriente para entender de mejor manera se utilizará herramientas de investigación.
   
 1.2.	Objetivos específicos 
 
