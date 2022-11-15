@@ -44,9 +44,11 @@
 ![image](https://user-images.githubusercontent.com/116834366/201970688-0b1f006c-6d84-48ee-98c8-5cdf1f590571.png)
 
 4.VIDEO
+www.youtube.com
 
-5. Conclusiones
+5. Conclusiones 
 
+Al aprender los conceptos básicos de la eléctrica podemos llegar a realizar varios ejercicios que tal vez solo sean de aplicar conceptos. Hay que tener en claro lo que es un circuito y como funciona y para que nos sirve, entender que unidades vamos a usar y como son las conversiones son lo más fundamental para toda la carrera. Tambén reconocer como funciona las cargas y sus direcciones de corriente. Pienso que todo lo visto en el cap 1 y 2 es lo más fundamental.
 
 
 	
