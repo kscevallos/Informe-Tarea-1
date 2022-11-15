@@ -33,12 +33,19 @@
 3.1. CAP 1
 
 ![image](https://user-images.githubusercontent.com/116834366/201969387-7b168482-10e2-459c-896a-61cea183ff87.png)
-
 ![image](https://user-images.githubusercontent.com/116834366/201969493-fbccc61a-6d74-41b3-998f-735ee6aa35da.png)
-
 ![image](https://user-images.githubusercontent.com/116834366/201969630-71fb23cb-f572-43e2-a80d-aeb04a2767f2.png)
-
 ![image](https://user-images.githubusercontent.com/116834366/201969754-8f208aa7-e6ad-4ab4-afb8-2b967bff9293.png)
+![image](https://user-images.githubusercontent.com/116834366/201970054-58ea8b8a-130d-45da-95de-6f24c47b3014.png)
+![image](https://user-images.githubusercontent.com/116834366/201970175-b43fec0c-7d89-45f0-a5e5-601183d5325a.png)
+![image](https://user-images.githubusercontent.com/116834366/201970291-418ace48-e682-4f96-a811-ac59016f756d.png)
+![image](https://user-images.githubusercontent.com/116834366/201970494-6d9fbbc3-2b5e-48c8-bd96-df649a0043f9.png)
+![image](https://user-images.githubusercontent.com/116834366/201970611-ab8080ea-2301-4d06-a6e7-772be4d28d1e.png)
+![image](https://user-images.githubusercontent.com/116834366/201970688-0b1f006c-6d84-48ee-98c8-5cdf1f590571.png)
+
+4.VIDEO
+
+5. Conclusiones
 
 
 
